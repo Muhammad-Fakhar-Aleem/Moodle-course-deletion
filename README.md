@@ -105,4 +105,3 @@ Muhammad Fakhar Aleem
 
 Moodle Administrator
 LMS & Educational Technology Specialist
-Flutter & Web Developer
